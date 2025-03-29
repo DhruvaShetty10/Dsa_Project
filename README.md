@@ -38,7 +38,7 @@ The dataset used contains labeled SMS messages categorized as spam or ham. It in
 2. View model performance metrics and results.
 
 ## Results
-The Support Vector Machine (SVM) and Random Forest models achieved the highest accuracy, with SVM reaching an accuracy of **98.27%**. Random Forest also demonstrated robust performance with balanced precision and recall.
+The Support Vector Machine (SVM) and Random Forest models achieved the highest accuracy, with SVM reaching an accuracy of **98.39%**. Random Forest also demonstrated robust performance with balanced precision and recall.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements and bug fixes.
